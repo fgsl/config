@@ -1,0 +1,20 @@
+{
+    "name": "expresso/config",
+    "description": "Expresso Config",
+    "type": "library",
+    "keywords": [
+        "config",
+        "expresso",
+        "framework"
+    ],
+    "homepage": "http://gitlab.serpro/flavio.lisboa/expresso-config",
+    "license": "AGPL",
+    "autoload": {
+        "psr-4": {
+            "Expresso\\Config\\": "src/Expresso/Config"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
