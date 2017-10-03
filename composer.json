@@ -1,17 +1,17 @@
 {
-    "name": "expresso/config",
-    "description": "Expresso Config",
+    "name": "fgsl/config",
+    "description": "Fgsl Config",
     "type": "library",
     "keywords": [
         "config",
-        "expresso",
+        "fgsl",
         "framework"
     ],
-    "homepage": "https://github.com/fgsl/expresso-config",
+    "homepage": "https://github.com/fgsl/config",
     "license": "AGPL",
     "autoload": {
         "psr-4": {
-            "Expresso\\Config\\": "src/Expresso/Config"
+            "Fgsl\\Config\\": "src/Fgsl/Config"
         }
     },
     "require": {

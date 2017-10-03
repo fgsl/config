@@ -2,11 +2,11 @@
 
 ## Synopsis
 
-Expresso Config allow to read data configuration
+Fgsl Config allow to read data configuration
 
 ## Test
 
-    phpunit --bootstrap tests/bootstrap.php tests/Expresso/Test/TestSuite.php
+    phpunit --bootstrap tests/bootstrap.php tests/Fgsl/Test/TestSuite.php
 
 ## License
 
